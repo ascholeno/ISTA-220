@@ -8,7 +8,7 @@ A compound assignment operator is a combination of any arithmetic operator and t
 
 2. List all the compound assignment operators.
 
- - variable \*= number;
+ - variable *= number;
  - variable /= number;
  - variable %= number;
  - variable += number;
@@ -28,7 +28,7 @@ A While loops runs until the boolean expression defined evaluates to false.
 
 5. What is an iteration variable?
 
-Repeated execution of a set of statements is called iteration. E.X For Each
+Contains the test value. ex i<10 iteration variable is the counter that counts to 10
 
 6. What happens if you don't change the loop variable in the body of the while loop block?
 
